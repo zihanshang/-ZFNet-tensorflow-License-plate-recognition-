@@ -1,0 +1,2938 @@
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9857
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9438
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9732
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.5595
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9954
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9900
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8330
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9037
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7648
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7741
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8754
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8334
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.6661
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8392
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8744
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9884
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9526
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7887
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9313
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7220
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9048
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9748
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7383
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7406
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: greencar  Accuracy: 0.9939
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7094
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9966
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9852
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9363
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9121
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9992
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9957
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.5072
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9978
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9997
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9970
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9997
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9995
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9695
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.5592
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9994
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9995
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9490
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9974
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8272
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9997
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9930
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8068
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9963
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9691
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9976
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9980
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9867
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9929
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9995
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9989
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9997
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.6539
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7765
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9987
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9989
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9779
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9970
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.6255
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8244
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9967
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9992
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9950
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9345
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9900
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: greencar  Accuracy: 0.9349
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9997
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9985
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9991
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9934
+Trueclass: bluecar  Predictclass: greencar  Accuracy: 0.9989
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8116
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9980
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9988
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9993
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9992
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9713
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9732
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9991
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9965
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9953
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9859
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9954
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: greencar  Accuracy: 0.5031
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9954
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9379
+Trueclass: bluecar  Predictclass: greencar  Accuracy: 0.9933
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7220
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7383
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7406
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9967
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9744
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9206
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9363
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8852
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9586
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9992
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.5072
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9978
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9901
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9854
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9997
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9997
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.6696
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.6106
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9941
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9994
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8314
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9991
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9919
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7741
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9994
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9995
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: greencar  Accuracy: 0.7802
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9946
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.6825
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9982
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9981
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9995
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9374
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.6539
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7064
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9993
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9972
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9987
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9915
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7089
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.6352
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9964
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9995
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9862
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.7188
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8382
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9997
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9048
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9992
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: greencar  Accuracy: 0.6944
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9927
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9950
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.8459
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9945
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: bluecar  Predictclass: bluecar  Accuracy: 0.9992
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9887
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.8988
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9787
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9992
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9996
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: bluecar  Accuracy: 0.6125
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9971
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: bluecar  Accuracy: 0.4692
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9987
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9992
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9927
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9981
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9995
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9983
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9996
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9996
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9989
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9995
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9941
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.6391
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9997
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9993
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9787
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9997
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9995
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9994
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9452
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9997
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: bluecar  Accuracy: 0.6125
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.6921
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9985
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: bluecar  Accuracy: 0.4692
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9986
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9995
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9981
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 0.9997
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: greencar  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.6262
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9221
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9059
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9531
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9155
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8149
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8908
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9455
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5844
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7152
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.6228
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9218
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8282
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9005
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9453
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9464
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8949
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9331
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9595
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9705
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9045
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8641
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8442
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8317
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8842
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8648
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8045
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8861
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9615
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9360
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9445
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9266
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9413
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9245
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9486
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7765
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9612
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9106
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9535
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8433
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9579
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9142
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9677
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9199
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9059
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7477
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8557
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9276
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9411
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9073
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9072
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9408
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8630
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9200
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9271
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8927
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9199
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8531
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9343
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9306
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9282
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9597
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8175
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9590
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9314
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9198
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8822
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9074
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9313
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9067
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8027
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8404
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9278
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9352
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9190
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9510
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5651
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8978
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9350
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9369
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8952
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9377
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8728
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9621
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8349
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8948
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9262
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9147
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.4997
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.4371
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9737
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9380
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8980
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9242
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9785
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9305
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9283
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9591
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7926
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9450
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9283
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9123
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9731
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9151
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9351
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8895
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9719
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9460
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8726
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9190
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9029
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9197
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.3960
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.6684
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9334
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7544
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8868
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9701
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8806
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9318
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9333
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9516
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9145
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8662
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9688
+Trueclass: whitecar  Predictclass: greencar  Accuracy: 0.4778
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9320
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9304
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7443
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8872
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8061
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9025
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9741
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7792
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8933
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.6871
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9520
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9404
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5667
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9395
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7328
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9616
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9310
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8200
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9152
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9660
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8871
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9199
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9582
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8175
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8933
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9638
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8293
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8317
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5868
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9410
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9554
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.6720
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9413
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9245
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9276
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9598
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9612
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9241
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5672
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9579
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8927
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8935
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9455
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9072
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8142
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9202
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9474
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9317
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9200
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7920
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9123
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7918
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9597
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8750
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9619
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9207
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9322
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9282
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9011
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9590
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9364
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9113
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9352
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9510
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9300
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7714
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9369
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8871
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9129
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.4371
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8725
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8259
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8980
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5779
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9242
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9447
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8934
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9127
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9450
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9283
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9222
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9307
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8742
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8784
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9002
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8243
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9351
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8718
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7965
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9381
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9707
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8924
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9026
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9387
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9465
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9287
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8774
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9128
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5292
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9030
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9239
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9061
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8919
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5329
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.4355
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9191
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9568
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9721
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9494
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9374
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9721
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9450
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8998
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9063
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9468
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9550
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9727
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9352
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9287
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9302
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9054
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9431
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9361
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9672
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.6335
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8512
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9346
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9043
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8807
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9423
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8687
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8323
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8467
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8841
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9320
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8296
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9531
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9705
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9417
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8915
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9179
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8934
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9245
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9220
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9243
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9391
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8341
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9095
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7911
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9622
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9536
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8928
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8640
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9231
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9258
+Trueclass: whitecar  Predictclass: greencar  Accuracy: 0.4845
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9292
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8445
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9636
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9432
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9180
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9186
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9001
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9562
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7952
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9509
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8792
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9326
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8987
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9628
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9362
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9215
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8953
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8960
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9457
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9742
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9020
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9421
+Trueclass: whitecar  Predictclass: bluecar  Accuracy: 0.3996
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8990
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5542
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9322
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9041
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8893
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8949
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9568
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9058
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9664
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9287
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9213
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9135
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9043
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8644
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9418
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9389
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8231
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9184
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9035
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9659
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8872
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8841
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9015
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9212
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9602
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8932
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9712
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9707
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8893
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9492
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9427
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.4866
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9132
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5490
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9002
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8943
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9401
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9410
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9163
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9579
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9660
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8882
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8967
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9411
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9171
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9280
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8594
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9190
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.6674
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7135
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9356
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9582
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9761
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5204
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5868
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9117
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9410
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9079
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9792
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9321
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9486
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8944
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5283
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9107
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9106
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8785
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9137
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8962
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9768
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9417
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9254
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8060
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9053
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9090
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7477
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9493
+Trueclass: whitecar  Predictclass: bluecar  Accuracy: 0.3730
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9258
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8630
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9202
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8078
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8863
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9216
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9200
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8979
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9058
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9387
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8411
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9572
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7920
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5561
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9621
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9063
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9022
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9435
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9294
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9597
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7205
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.4512
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.4917
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5651
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9369
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8928
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.4997
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9356
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8259
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8758
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9442
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5779
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9465
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9242
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9342
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8857
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9327
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9550
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9409
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9179
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9127
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9656
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9283
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9222
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9218
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8784
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9065
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9441
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9763
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9617
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9115
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9130
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.6358
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9689
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9347
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7846
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9213
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9465
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9559
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8031
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9427
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9522
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9093
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9057
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.4866
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9132
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9002
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.4736
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8338
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9493
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8073
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9328
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9061
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7840
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9287
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9027
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9494
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9212
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9374
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9685
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9792
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7999
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9450
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.7685
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9468
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9561
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9254
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8684
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9156
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9133
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9287
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9116
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9412
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8378
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9361
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9225
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9724
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9512
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8644
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9412
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9423
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9035
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9410
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8865
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9054
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8850
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8573
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9231
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9414
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9193
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8681
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9444
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8683
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9409
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9252
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9622
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8219
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8513
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8928
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9183
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8308
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9102
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8180
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9336
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9284
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9361
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9296
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9207
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8969
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8455
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.5329
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.9278
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8567
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8947
+Trueclass: whitecar  Predictclass: whitecar  Accuracy: 0.8987
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.9860
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9994
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.8034
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9980
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9925
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9985
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9971
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9382
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.9754
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9993
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9736
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.7774
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9881
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9992
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8585
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9841
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8231
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9340
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9900
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9290
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9431
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8570
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9955
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9996
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9988
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9465
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8290
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9989
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9198
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9925
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9988
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9875
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9997
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9986
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9953
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9550
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9997
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9951
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.5571
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.5968
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.5445
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9736
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9997
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9507
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9938
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9951
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9980
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9997
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.9860
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9948
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9898
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9846
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.7317
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9770
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9897
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.8034
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9996
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9028
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9710
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9168
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9790
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9938
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9973
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9557
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9983
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9953
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9959
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9994
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8570
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9880
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9992
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9992
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.7876
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9198
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9988
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9994
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9945
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9997
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9161
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9976
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9997
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.5892
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9736
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9993
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9204
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8532
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9124
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9973
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8478
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.9951
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9340
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9662
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9290
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8570
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9996
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.8307
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9198
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9925
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9988
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9994
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9076
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9909
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9767
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8901
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9883
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9997
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.5800
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.6210
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9736
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9328
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9920
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9507
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9204
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9990
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9997
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.6157
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9507
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.8478
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9006
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9946
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9898
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9996
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9557
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.6157
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9996
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.7029
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.8478
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8625
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9988
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9790
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9938
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9885
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9946
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9973
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.5129
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9996
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9951
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.7925
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9507
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9897
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9028
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9925
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9996
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9988
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9684
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9981
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9971
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9863
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9006
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9993
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9992
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9736
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9881
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9382
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.7925
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9507
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9996
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9984
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9028
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9990
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9993
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.6708
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9973
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9992
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9966
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9959
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: greencar  Accuracy: 0.9171
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8883
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.7766
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9771
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9999
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9883
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9990
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9982
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8843
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.8788
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 0.9920
+Trueclass: yellowcar  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: Snipaste  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: Snipaste  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: Snipaste  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: Snipaste  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: Snipaste  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: Snipaste  Predictclass: whitecar  Accuracy: 0.8334
+Trueclass: Snipaste  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: Snipaste  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: Snipaste  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: Snipaste  Predictclass: yellowcar  Accuracy: 1.0000
+Trueclass: Snipaste  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: Snipaste  Predictclass: bluecar  Accuracy: 1.0000
+
+
+新的：
+
+Trueclass: caryellow 16.jpg  Predictclass: yellowcar  Accuracy: 0.9699
+Trueclass: cargreen 102.jpg  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: caryellow 547.jpg  Predictclass: yellowcar  Accuracy: 0.9313
+Trueclass: carwhite 186.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: caryellow 524.jpg  Predictclass: yellowcar  Accuracy: 0.9992
+Trueclass: carblue 173.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 19.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 209.jpg  Predictclass: yellowcar  Accuracy: 0.9906
+Trueclass: caryellow 261.jpg  Predictclass: yellowcar  Accuracy: 0.7484
+Trueclass: caryellow 208.jpg  Predictclass: yellowcar  Accuracy: 0.9944
+Trueclass: carblue 81.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 469.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carwhite 232.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: carwhite 490.jpg  Predictclass: whitecar  Accuracy: 0.9953
+Trueclass: carwhite 405.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carblue 50.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 689.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: carwhite 602.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 64.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 305.jpg  Predictclass: yellowcar  Accuracy: 0.9747
+Trueclass: carwhite 65.jpg  Predictclass: whitecar  Accuracy: 0.9822
+Trueclass: caryellow 206.jpg  Predictclass: yellowcar  Accuracy: 0.9938
+Trueclass: caryellow 106.jpg  Predictclass: yellowcar  Accuracy: 0.9929
+Trueclass: carwhite 441.jpg  Predictclass: whitecar  Accuracy: 0.9946
+Trueclass: carblue 294.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 491.jpg  Predictclass: yellowcar  Accuracy: 0.7469
+Trueclass: carwhite 613.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 53.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 541.jpg  Predictclass: yellowcar  Accuracy: 0.9938
+Trueclass: caryellow 246.jpg  Predictclass: yellowcar  Accuracy: 0.9800
+Trueclass: carblue 299.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 455.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carblue 66.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 442.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: carwhite 184.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: caryellow 511.jpg  Predictclass: yellowcar  Accuracy: 0.9931
+Trueclass: carwhite 182.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: caryellow 474.jpg  Predictclass: yellowcar  Accuracy: 0.8707
+Trueclass: carwhite 58.jpg  Predictclass: whitecar  Accuracy: 0.9990
+Trueclass: cargreen 67.jpg  Predictclass: greencar  Accuracy: 0.9997
+Trueclass: carwhite 626.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: carblue 65.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 166.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carwhite 522.jpg  Predictclass: whitecar  Accuracy: 0.9983
+Trueclass: carwhite 111.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: carblue 220.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 322.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 579.jpg  Predictclass: whitecar  Accuracy: 1.0000
+Trueclass: carwhite 554.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: caryellow 5.jpg  Predictclass: yellowcar  Accuracy: 0.9951
+Trueclass: carblue 30.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 33.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 143.jpg  Predictclass: bluecar  Accuracy: 0.9322
+Trueclass: caryellow 311.jpg  Predictclass: yellowcar  Accuracy: 0.9713
+Trueclass: carwhite 3.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: cargreen 113.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: caryellow 544.jpg  Predictclass: yellowcar  Accuracy: 0.9982
+Trueclass: caryellow 555.jpg  Predictclass: yellowcar  Accuracy: 0.9895
+Trueclass: caryellow 464.jpg  Predictclass: yellowcar  Accuracy: 0.9994
+Trueclass: caryellow 503.jpg  Predictclass: yellowcar  Accuracy: 0.9656
+Trueclass: caryellow 471.jpg  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: caryellow 454.jpg  Predictclass: yellowcar  Accuracy: 0.9953
+Trueclass: carwhite 387.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 187.jpg  Predictclass: whitecar  Accuracy: 0.9971
+Trueclass: carwhite 527.jpg  Predictclass: whitecar  Accuracy: 0.9985
+Trueclass: carwhite 289.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: caryellow 372.jpg  Predictclass: yellowcar  Accuracy: 0.9962
+Trueclass: caryellow 559.jpg  Predictclass: yellowcar  Accuracy: 0.9900
+Trueclass: cargreen 87.jpg  Predictclass: greencar  Accuracy: 0.9996
+Trueclass: caryellow 24.jpg  Predictclass: yellowcar  Accuracy: 0.9972
+Trueclass: caryellow 218.jpg  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: carwhite 48.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carwhite 274.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: carwhite 188.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: caryellow 49.jpg  Predictclass: yellowcar  Accuracy: 0.9819
+Trueclass: caryellow 183.jpg  Predictclass: yellowcar  Accuracy: 0.9804
+Trueclass: carblue 31.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 452.jpg  Predictclass: yellowcar  Accuracy: 0.9619
+Trueclass: cargreen 98.jpg  Predictclass: greencar  Accuracy: 0.9987
+Trueclass: carblue 225.jpg  Predictclass: bluecar  Accuracy: 0.9992
+Trueclass: caryellow 25.jpg  Predictclass: yellowcar  Accuracy: 0.8789
+Trueclass: carblue 298.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 204.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 218.jpg  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: carblue 27.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 577.jpg  Predictclass: yellowcar  Accuracy: 0.9969
+Trueclass: caryellow 149.jpg  Predictclass: yellowcar  Accuracy: 0.9990
+Trueclass: caryellow 303.jpg  Predictclass: yellowcar  Accuracy: 0.9853
+Trueclass: carwhite 218.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 332.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: cargreen 54.jpg  Predictclass: greencar  Accuracy: 0.9618
+Trueclass: carwhite 49.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carwhite 247.jpg  Predictclass: whitecar  Accuracy: 0.9983
+Trueclass: caryellow 497.jpg  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: caryellow 248.jpg  Predictclass: yellowcar  Accuracy: 0.9877
+Trueclass: carwhite 285.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: cargreen 82.jpg  Predictclass: greencar  Accuracy: 0.9995
+Trueclass: carwhite 503.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: carwhite 100.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: cargreen 116.jpg  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: caryellow 329.jpg  Predictclass: yellowcar  Accuracy: 0.9406
+Trueclass: caryellow 517.jpg  Predictclass: yellowcar  Accuracy: 0.9906
+Trueclass: carwhite 270.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 276.jpg  Predictclass: whitecar  Accuracy: 0.9819
+Trueclass: carwhite 534.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 570.jpg  Predictclass: yellowcar  Accuracy: 0.9719
+Trueclass: carwhite 189.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: carblue 202.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 638.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: caryellow 77.jpg  Predictclass: yellowcar  Accuracy: 0.9973
+Trueclass: cargreen 32.jpg  Predictclass: greencar  Accuracy: 0.9858
+Trueclass: carwhite 147.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: carblue 165.jpg  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: carblue 241.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 277.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: caryellow 152.jpg  Predictclass: yellowcar  Accuracy: 0.9892
+Trueclass: cargreen 71.jpg  Predictclass: greencar  Accuracy: 0.9746
+Trueclass: carwhite 703.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: cargreen 23.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: caryellow 481.jpg  Predictclass: yellowcar  Accuracy: 0.9943
+Trueclass: carblue 14.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 94.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 277.jpg  Predictclass: yellowcar  Accuracy: 0.9725
+Trueclass: carwhite 291.jpg  Predictclass: whitecar  Accuracy: 0.9982
+Trueclass: carwhite 38.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 472.jpg  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: carwhite 383.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: caryellow 120.jpg  Predictclass: yellowcar  Accuracy: 0.9994
+Trueclass: carwhite 424.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carwhite 545.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: cargreen 43.jpg  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: carblue 29.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 66.jpg  Predictclass: whitecar  Accuracy: 0.9981
+Trueclass: carwhite 310.jpg  Predictclass: whitecar  Accuracy: 0.9978
+Trueclass: carblue 106.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 308.jpg  Predictclass: yellowcar  Accuracy: 0.9907
+Trueclass: carblue 73.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 172.jpg  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: caryellow 139.jpg  Predictclass: yellowcar  Accuracy: 0.9710
+Trueclass: carblue 261.jpg  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: caryellow 388.jpg  Predictclass: yellowcar  Accuracy: 0.9987
+Trueclass: caryellow 257.jpg  Predictclass: yellowcar  Accuracy: 0.9581
+Trueclass: caryellow 410.jpg  Predictclass: yellowcar  Accuracy: 0.9367
+Trueclass: caryellow 413.jpg  Predictclass: yellowcar  Accuracy: 0.9861
+Trueclass: carwhite 146.jpg  Predictclass: whitecar  Accuracy: 0.9890
+Trueclass: carwhite 529.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: caryellow 55.jpg  Predictclass: yellowcar  Accuracy: 0.9909
+Trueclass: cargreen 117.jpg  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: caryellow 168.jpg  Predictclass: yellowcar  Accuracy: 0.9972
+Trueclass: carwhite 408.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 388.jpg  Predictclass: yellowcar  Accuracy: 0.9987
+Trueclass: caryellow 342.jpg  Predictclass: yellowcar  Accuracy: 0.9672
+Trueclass: carwhite 602.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 352.jpg  Predictclass: whitecar  Accuracy: 0.9990
+Trueclass: carwhite 353.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: caryellow 180.jpg  Predictclass: yellowcar  Accuracy: 0.9805
+Trueclass: carwhite 557.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: carwhite 62.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 174.jpg  Predictclass: yellowcar  Accuracy: 0.9781
+Trueclass: caryellow 524.jpg  Predictclass: yellowcar  Accuracy: 0.9992
+Trueclass: cargreen 6.jpg  Predictclass: greencar  Accuracy: 0.9760
+Trueclass: carwhite 102.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: caryellow 362.jpg  Predictclass: yellowcar  Accuracy: 0.9980
+Trueclass: carwhite 25.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 576.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carblue 329.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 362.jpg  Predictclass: whitecar  Accuracy: 0.9979
+Trueclass: cargreen 31.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 654.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: caryellow 266.jpg  Predictclass: yellowcar  Accuracy: 0.9923
+Trueclass: cargreen 128.jpg  Predictclass: greencar  Accuracy: 0.9981
+Trueclass: carwhite 703.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carwhite 1.jpg  Predictclass: whitecar  Accuracy: 0.9990
+Trueclass: carblue 24.jpg  Predictclass: bluecar  Accuracy: 0.7631
+Trueclass: carwhite 617.jpg  Predictclass: whitecar  Accuracy: 0.9978
+Trueclass: caryellow 435.jpg  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: caryellow 562.jpg  Predictclass: yellowcar  Accuracy: 0.9944
+Trueclass: carwhite 1.jpg  Predictclass: whitecar  Accuracy: 0.9990
+Trueclass: carwhite 625.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: caryellow 428.jpg  Predictclass: yellowcar  Accuracy: 0.9910
+Trueclass: caryellow 517.jpg  Predictclass: yellowcar  Accuracy: 0.9906
+Trueclass: cargreen 41.jpg  Predictclass: greencar  Accuracy: 0.9963
+Trueclass: carwhite 208.jpg  Predictclass: whitecar  Accuracy: 0.9989
+Trueclass: carblue 238.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 224.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carblue 343.jpg  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: carblue 203.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 253.jpg  Predictclass: yellowcar  Accuracy: 0.9956
+Trueclass: carblue 51.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 161.jpg  Predictclass: yellowcar  Accuracy: 0.9966
+Trueclass: carwhite 170.jpg  Predictclass: whitecar  Accuracy: 0.9988
+Trueclass: carblue 356.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 63.jpg  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: carwhite 426.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: caryellow 394.jpg  Predictclass: yellowcar  Accuracy: 0.9967
+Trueclass: carwhite 9.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: cargreen 40.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 603.jpg  Predictclass: whitecar  Accuracy: 0.9977
+Trueclass: carwhite 479.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 686.jpg  Predictclass: whitecar  Accuracy: 0.9985
+Trueclass: carwhite 533.jpg  Predictclass: whitecar  Accuracy: 0.9977
+Trueclass: carwhite 504.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: carwhite 320.jpg  Predictclass: whitecar  Accuracy: 0.9960
+Trueclass: carwhite 189.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: caryellow 318.jpg  Predictclass: yellowcar  Accuracy: 0.4619
+Trueclass: carwhite 393.jpg  Predictclass: whitecar  Accuracy: 0.9969
+Trueclass: carblue 58.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 129.jpg  Predictclass: greencar  Accuracy: 0.7930
+Trueclass: carblue 172.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 146.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 55.jpg  Predictclass: yellowcar  Accuracy: 0.9909
+Trueclass: carwhite 296.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 76.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 654.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: carwhite 191.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 546.jpg  Predictclass: yellowcar  Accuracy: 0.9816
+Trueclass: cargreen 98.jpg  Predictclass: greencar  Accuracy: 0.9987
+Trueclass: carwhite 164.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 586.jpg  Predictclass: whitecar  Accuracy: 0.9918
+Trueclass: caryellow 203.jpg  Predictclass: yellowcar  Accuracy: 0.9622
+Trueclass: cargreen 52.jpg  Predictclass: whitecar  Accuracy: 0.9268
+Trueclass: carblue 323.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 49.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 668.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 368.jpg  Predictclass: whitecar  Accuracy: 0.9946
+Trueclass: caryellow 149.jpg  Predictclass: yellowcar  Accuracy: 0.9990
+Trueclass: carblue 290.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 507.jpg  Predictclass: yellowcar  Accuracy: 0.7159
+Trueclass: carwhite 626.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: carwhite 157.jpg  Predictclass: whitecar  Accuracy: 0.9988
+Trueclass: carwhite 645.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 564.jpg  Predictclass: yellowcar  Accuracy: 0.9543
+Trueclass: carwhite 73.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carwhite 75.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: cargreen 60.jpg  Predictclass: greencar  Accuracy: 0.9880
+Trueclass: carblue 262.jpg  Predictclass: bluecar  Accuracy: 0.8556
+Trueclass: carwhite 114.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: caryellow 571.jpg  Predictclass: yellowcar  Accuracy: 0.9991
+Trueclass: caryellow 149.jpg  Predictclass: yellowcar  Accuracy: 0.9990
+Trueclass: caryellow 232.jpg  Predictclass: yellowcar  Accuracy: 0.9885
+Trueclass: carwhite 55.jpg  Predictclass: whitecar  Accuracy: 0.9973
+Trueclass: carblue 356.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 229.jpg  Predictclass: whitecar  Accuracy: 0.9987
+Trueclass: caryellow 312.jpg  Predictclass: yellowcar  Accuracy: 0.9799
+Trueclass: caryellow 461.jpg  Predictclass: yellowcar  Accuracy: 0.9972
+Trueclass: carblue 103.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 83.jpg  Predictclass: yellowcar  Accuracy: 0.9858
+Trueclass: carblue 28.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 180.jpg  Predictclass: yellowcar  Accuracy: 0.9805
+Trueclass: caryellow 320.jpg  Predictclass: yellowcar  Accuracy: 0.8034
+Trueclass: carwhite 484.jpg  Predictclass: whitecar  Accuracy: 0.9985
+Trueclass: caryellow 128.jpg  Predictclass: yellowcar  Accuracy: 0.9838
+Trueclass: caryellow 574.jpg  Predictclass: yellowcar  Accuracy: 0.9194
+Trueclass: carwhite 14.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carwhite 344.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: carwhite 552.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 291.jpg  Predictclass: yellowcar  Accuracy: 0.9809
+Trueclass: caryellow 503.jpg  Predictclass: yellowcar  Accuracy: 0.9656
+Trueclass: carwhite 660.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 450.jpg  Predictclass: yellowcar  Accuracy: 0.9991
+Trueclass: carwhite 104.jpg  Predictclass: whitecar  Accuracy: 0.9976
+Trueclass: caryellow 220.jpg  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: carwhite 126.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: caryellow 381.jpg  Predictclass: yellowcar  Accuracy: 0.9979
+Trueclass: carblue 316.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 509.jpg  Predictclass: yellowcar  Accuracy: 0.8812
+Trueclass: carwhite 420.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 101.jpg  Predictclass: bluecar  Accuracy: 0.9997
+Trueclass: caryellow 558.jpg  Predictclass: yellowcar  Accuracy: 0.9549
+Trueclass: caryellow 454.jpg  Predictclass: yellowcar  Accuracy: 0.9953
+Trueclass: caryellow 19.jpg  Predictclass: yellowcar  Accuracy: 0.9926
+Trueclass: carwhite 655.jpg  Predictclass: whitecar  Accuracy: 0.9977
+Trueclass: carwhite 529.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carwhite 229.jpg  Predictclass: whitecar  Accuracy: 0.9987
+Trueclass: cargreen 31.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 121.jpg  Predictclass: whitecar  Accuracy: 0.9985
+Trueclass: carwhite 480.jpg  Predictclass: whitecar  Accuracy: 0.9972
+Trueclass: caryellow 531.jpg  Predictclass: yellowcar  Accuracy: 0.9009
+Trueclass: caryellow 457.jpg  Predictclass: yellowcar  Accuracy: 0.9895
+Trueclass: carwhite 456.jpg  Predictclass: whitecar  Accuracy: 0.9982
+Trueclass: caryellow 537.jpg  Predictclass: yellowcar  Accuracy: 0.9850
+Trueclass: carwhite 316.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carblue 341.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 184.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: caryellow 73.jpg  Predictclass: yellowcar  Accuracy: 0.9901
+Trueclass: caryellow 526.jpg  Predictclass: yellowcar  Accuracy: 0.9981
+Trueclass: carwhite 351.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: caryellow 352.jpg  Predictclass: yellowcar  Accuracy: 0.9645
+Trueclass: carblue 182.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 471.jpg  Predictclass: whitecar  Accuracy: 0.9986
+Trueclass: cargreen 59.jpg  Predictclass: whitecar  Accuracy: 0.6597
+Trueclass: cargreen 12.jpg  Predictclass: bluecar  Accuracy: 0.6647
+Trueclass: cargreen 43.jpg  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: cargreen 77.jpg  Predictclass: yellowcar  Accuracy: 0.5153
+Trueclass: carblue 178.jpg  Predictclass: bluecar  Accuracy: 0.9019
+Trueclass: carwhite 588.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: caryellow 145.jpg  Predictclass: yellowcar  Accuracy: 0.9958
+Trueclass: carwhite 111.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: carwhite 696.jpg  Predictclass: whitecar  Accuracy: 0.9909
+Trueclass: carblue 257.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 558.jpg  Predictclass: yellowcar  Accuracy: 0.9549
+Trueclass: carblue 265.jpg  Predictclass: greencar  Accuracy: 0.7542
+Trueclass: carwhite 485.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: cargreen 26.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carblue 75.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 482.jpg  Predictclass: yellowcar  Accuracy: 0.9831
+Trueclass: carblue 210.jpg  Predictclass: bluecar  Accuracy: 0.7911
+Trueclass: caryellow 91.jpg  Predictclass: yellowcar  Accuracy: 0.9933
+Trueclass: carwhite 390.jpg  Predictclass: whitecar  Accuracy: 0.9979
+Trueclass: carwhite 656.jpg  Predictclass: whitecar  Accuracy: 0.9982
+Trueclass: caryellow 407.jpg  Predictclass: yellowcar  Accuracy: 0.9591
+Trueclass: carwhite 391.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: cargreen 117.jpg  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: carwhite 368.jpg  Predictclass: whitecar  Accuracy: 0.9946
+Trueclass: carwhite 318.jpg  Predictclass: whitecar  Accuracy: 0.9967
+Trueclass: carblue 285.jpg  Predictclass: bluecar  Accuracy: 0.8204
+Trueclass: caryellow 211.jpg  Predictclass: yellowcar  Accuracy: 0.9898
+Trueclass: caryellow 302.jpg  Predictclass: yellowcar  Accuracy: 0.9902
+Trueclass: cargreen 36.jpg  Predictclass: bluecar  Accuracy: 0.8714
+Trueclass: carwhite 440.jpg  Predictclass: whitecar  Accuracy: 0.9982
+Trueclass: carblue 126.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 536.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: caryellow 412.jpg  Predictclass: yellowcar  Accuracy: 0.9901
+Trueclass: caryellow 162.jpg  Predictclass: yellowcar  Accuracy: 0.9979
+Trueclass: carblue 138.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 284.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carwhite 426.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: cargreen 71.jpg  Predictclass: greencar  Accuracy: 0.9746
+Trueclass: carwhite 303.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 19.jpg  Predictclass: yellowcar  Accuracy: 0.9926
+Trueclass: carwhite 345.jpg  Predictclass: whitecar  Accuracy: 0.9954
+Trueclass: carwhite 570.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carblue 123.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 262.jpg  Predictclass: bluecar  Accuracy: 0.8556
+Trueclass: carwhite 256.jpg  Predictclass: whitecar  Accuracy: 0.9967
+Trueclass: caryellow 207.jpg  Predictclass: yellowcar  Accuracy: 0.9981
+Trueclass: carblue 14.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 241.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 129.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 500.jpg  Predictclass: whitecar  Accuracy: 0.9824
+Trueclass: carwhite 38.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 342.jpg  Predictclass: yellowcar  Accuracy: 0.9672
+Trueclass: carblue 13.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 462.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 239.jpg  Predictclass: yellowcar  Accuracy: 0.9996
+Trueclass: caryellow 245.jpg  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: carwhite 699.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carwhite 587.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: caryellow 491.jpg  Predictclass: yellowcar  Accuracy: 0.7469
+Trueclass: carwhite 424.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carblue 13.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 270.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 159.jpg  Predictclass: greencar  Accuracy: 0.8165
+Trueclass: carwhite 315.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carblue 350.jpg  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: carwhite 340.jpg  Predictclass: whitecar  Accuracy: 0.9990
+Trueclass: carwhite 644.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 64.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: carwhite 106.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carblue 352.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 405.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carblue 217.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 208.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 190.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 103.jpg  Predictclass: whitecar  Accuracy: 0.9957
+Trueclass: carwhite 193.jpg  Predictclass: whitecar  Accuracy: 0.9982
+Trueclass: caryellow 120.jpg  Predictclass: yellowcar  Accuracy: 0.9994
+Trueclass: caryellow 224.jpg  Predictclass: yellowcar  Accuracy: 0.9969
+Trueclass: caryellow 378.jpg  Predictclass: yellowcar  Accuracy: 0.9582
+Trueclass: caryellow 385.jpg  Predictclass: yellowcar  Accuracy: 0.9973
+Trueclass: caryellow 480.jpg  Predictclass: yellowcar  Accuracy: 0.9605
+Trueclass: carwhite 523.jpg  Predictclass: whitecar  Accuracy: 0.9987
+Trueclass: carblue 142.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 168.jpg  Predictclass: whitecar  Accuracy: 0.9987
+Trueclass: carwhite 418.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 269.jpg  Predictclass: yellowcar  Accuracy: 0.8418
+Trueclass: caryellow 53.jpg  Predictclass: yellowcar  Accuracy: 0.9974
+Trueclass: carwhite 698.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 541.jpg  Predictclass: yellowcar  Accuracy: 0.9938
+Trueclass: caryellow 290.jpg  Predictclass: yellowcar  Accuracy: 0.9982
+Trueclass: carwhite 93.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 366.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: caryellow 285.jpg  Predictclass: yellowcar  Accuracy: 0.9057
+Trueclass: carwhite 554.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carwhite 462.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 40.jpg  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: cargreen 120.jpg  Predictclass: whitecar  Accuracy: 0.9146
+Trueclass: caryellow 171.jpg  Predictclass: yellowcar  Accuracy: 0.9883
+Trueclass: carwhite 299.jpg  Predictclass: whitecar  Accuracy: 0.9869
+Trueclass: caryellow 506.jpg  Predictclass: yellowcar  Accuracy: 0.9773
+Trueclass: cargreen 61.jpg  Predictclass: greencar  Accuracy: 0.9989
+Trueclass: caryellow 135.jpg  Predictclass: yellowcar  Accuracy: 0.9976
+Trueclass: caryellow 233.jpg  Predictclass: yellowcar  Accuracy: 0.9924
+Trueclass: carwhite 704.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 530.jpg  Predictclass: yellowcar  Accuracy: 0.9981
+Trueclass: caryellow 345.jpg  Predictclass: yellowcar  Accuracy: 0.9749
+Trueclass: carwhite 396.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: carblue 74.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 36.jpg  Predictclass: whitecar  Accuracy: 0.9989
+Trueclass: carwhite 406.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: caryellow 503.jpg  Predictclass: yellowcar  Accuracy: 0.9656
+Trueclass: carwhite 594.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: caryellow 574.jpg  Predictclass: yellowcar  Accuracy: 0.9194
+Trueclass: carwhite 75.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 377.jpg  Predictclass: whitecar  Accuracy: 0.9773
+Trueclass: cargreen 39.jpg  Predictclass: greencar  Accuracy: 0.9995
+Trueclass: caryellow 497.jpg  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: carwhite 677.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: caryellow 440.jpg  Predictclass: yellowcar  Accuracy: 0.9959
+Trueclass: cargreen 22.jpg  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: carblue 351.jpg  Predictclass: bluecar  Accuracy: 0.6970
+Trueclass: caryellow 45.jpg  Predictclass: yellowcar  Accuracy: 0.9932
+Trueclass: carblue 173.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 10.jpg  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: carwhite 477.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 101.jpg  Predictclass: whitecar  Accuracy: 0.9974
+Trueclass: carblue 81.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 635.jpg  Predictclass: whitecar  Accuracy: 0.9971
+Trueclass: carblue 32.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 356.jpg  Predictclass: yellowcar  Accuracy: 0.9446
+Trueclass: caryellow 553.jpg  Predictclass: greencar  Accuracy: 0.6374
+Trueclass: caryellow 7.jpg  Predictclass: yellowcar  Accuracy: 0.9164
+Trueclass: carwhite 288.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: carwhite 658.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carblue 189.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 53.jpg  Predictclass: greencar  Accuracy: 0.9319
+Trueclass: carwhite 259.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: carwhite 322.jpg  Predictclass: whitecar  Accuracy: 0.9972
+Trueclass: caryellow 78.jpg  Predictclass: yellowcar  Accuracy: 0.9972
+Trueclass: cargreen 127.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 58.jpg  Predictclass: whitecar  Accuracy: 0.9990
+Trueclass: carblue 121.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 165.jpg  Predictclass: whitecar  Accuracy: 0.9981
+Trueclass: caryellow 486.jpg  Predictclass: yellowcar  Accuracy: 0.9968
+Trueclass: caryellow 422.jpg  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: caryellow 96.jpg  Predictclass: yellowcar  Accuracy: 0.9872
+Trueclass: cargreen 95.jpg  Predictclass: greencar  Accuracy: 0.9933
+Trueclass: caryellow 110.jpg  Predictclass: yellowcar  Accuracy: 0.9982
+Trueclass: carblue 359.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 26.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: caryellow 151.jpg  Predictclass: yellowcar  Accuracy: 0.8948
+Trueclass: carwhite 140.jpg  Predictclass: whitecar  Accuracy: 0.9953
+Trueclass: carwhite 559.jpg  Predictclass: whitecar  Accuracy: 0.9986
+Trueclass: caryellow 420.jpg  Predictclass: yellowcar  Accuracy: 0.5670
+Trueclass: carblue 3.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 673.jpg  Predictclass: whitecar  Accuracy: 0.9988
+Trueclass: carblue 147.jpg  Predictclass: bluecar  Accuracy: 0.9986
+Trueclass: caryellow 74.jpg  Predictclass: yellowcar  Accuracy: 0.9965
+Trueclass: caryellow 107.jpg  Predictclass: yellowcar  Accuracy: 0.9974
+Trueclass: carwhite 294.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: caryellow 254.jpg  Predictclass: yellowcar  Accuracy: 0.9981
+Trueclass: caryellow 281.jpg  Predictclass: yellowcar  Accuracy: 0.9647
+Trueclass: cargreen 52.jpg  Predictclass: whitecar  Accuracy: 0.9268
+Trueclass: carblue 302.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 456.jpg  Predictclass: whitecar  Accuracy: 0.9982
+Trueclass: carwhite 431.jpg  Predictclass: whitecar  Accuracy: 0.9966
+Trueclass: carblue 158.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 155.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 457.jpg  Predictclass: yellowcar  Accuracy: 0.9895
+Trueclass: caryellow 454.jpg  Predictclass: yellowcar  Accuracy: 0.9953
+Trueclass: carblue 366.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 164.jpg  Predictclass: yellowcar  Accuracy: 0.9997
+Trueclass: carwhite 617.jpg  Predictclass: whitecar  Accuracy: 0.9978
+Trueclass: caryellow 464.jpg  Predictclass: yellowcar  Accuracy: 0.9994
+Trueclass: caryellow 459.jpg  Predictclass: yellowcar  Accuracy: 0.9608
+Trueclass: cargreen 128.jpg  Predictclass: greencar  Accuracy: 0.9981
+Trueclass: carwhite 194.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: carblue 40.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 666.jpg  Predictclass: whitecar  Accuracy: 0.9980
+Trueclass: carblue 112.jpg  Predictclass: bluecar  Accuracy: 0.9364
+Trueclass: carblue 170.jpg  Predictclass: bluecar  Accuracy: 0.9871
+Trueclass: caryellow 149.jpg  Predictclass: yellowcar  Accuracy: 0.9990
+Trueclass: carwhite 17.jpg  Predictclass: whitecar  Accuracy: 0.9967
+Trueclass: caryellow 503.jpg  Predictclass: yellowcar  Accuracy: 0.9656
+Trueclass: carwhite 269.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 394.jpg  Predictclass: yellowcar  Accuracy: 0.9967
+Trueclass: carblue 314.jpg  Predictclass: bluecar  Accuracy: 0.9998
+Trueclass: caryellow 240.jpg  Predictclass: yellowcar  Accuracy: 0.6849
+Trueclass: carwhite 511.jpg  Predictclass: whitecar  Accuracy: 0.9988
+Trueclass: carwhite 540.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 432.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: caryellow 317.jpg  Predictclass: yellowcar  Accuracy: 0.7023
+Trueclass: carwhite 658.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 403.jpg  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: caryellow 366.jpg  Predictclass: yellowcar  Accuracy: 0.9729
+Trueclass: caryellow 111.jpg  Predictclass: yellowcar  Accuracy: 0.4796
+Trueclass: caryellow 520.jpg  Predictclass: yellowcar  Accuracy: 0.9914
+Trueclass: caryellow 335.jpg  Predictclass: yellowcar  Accuracy: 0.9971
+Trueclass: caryellow 560.jpg  Predictclass: yellowcar  Accuracy: 0.9918
+Trueclass: caryellow 437.jpg  Predictclass: yellowcar  Accuracy: 0.9958
+Trueclass: carblue 8.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 257.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 246.jpg  Predictclass: yellowcar  Accuracy: 0.9800
+Trueclass: carblue 42.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 462.jpg  Predictclass: yellowcar  Accuracy: 0.9829
+Trueclass: carwhite 194.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: cargreen 41.jpg  Predictclass: greencar  Accuracy: 0.9963
+Trueclass: carwhite 259.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: caryellow 136.jpg  Predictclass: yellowcar  Accuracy: 0.9320
+Trueclass: carwhite 672.jpg  Predictclass: whitecar  Accuracy: 0.9982
+Trueclass: caryellow 141.jpg  Predictclass: yellowcar  Accuracy: 0.9970
+Trueclass: caryellow 418.jpg  Predictclass: yellowcar  Accuracy: 0.9907
+Trueclass: carblue 161.jpg  Predictclass: bluecar  Accuracy: 0.9097
+Trueclass: carwhite 9.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 457.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carwhite 87.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 461.jpg  Predictclass: whitecar  Accuracy: 0.9973
+Trueclass: carwhite 378.jpg  Predictclass: whitecar  Accuracy: 0.9969
+Trueclass: carwhite 673.jpg  Predictclass: whitecar  Accuracy: 0.9988
+Trueclass: cargreen 50.jpg  Predictclass: greencar  Accuracy: 0.9820
+Trueclass: carblue 334.jpg  Predictclass: bluecar  Accuracy: 0.9855
+Trueclass: carwhite 112.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 43.jpg  Predictclass: whitecar  Accuracy: 0.9973
+Trueclass: caryellow 568.jpg  Predictclass: yellowcar  Accuracy: 0.6158
+Trueclass: caryellow 352.jpg  Predictclass: yellowcar  Accuracy: 0.9645
+Trueclass: caryellow 418.jpg  Predictclass: yellowcar  Accuracy: 0.9907
+Trueclass: caryellow 57.jpg  Predictclass: yellowcar  Accuracy: 0.9991
+Trueclass: cargreen 5.jpg  Predictclass: greencar  Accuracy: 0.7716
+Trueclass: caryellow 107.jpg  Predictclass: yellowcar  Accuracy: 0.9974
+Trueclass: carwhite 414.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: carwhite 587.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: caryellow 366.jpg  Predictclass: yellowcar  Accuracy: 0.9729
+Trueclass: cargreen 17.jpg  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: carwhite 202.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 26.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 266.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 305.jpg  Predictclass: whitecar  Accuracy: 0.9968
+Trueclass: caryellow 54.jpg  Predictclass: yellowcar  Accuracy: 0.9915
+Trueclass: carwhite 122.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 11.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 184.jpg  Predictclass: yellowcar  Accuracy: 0.9960
+Trueclass: carblue 310.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 341.jpg  Predictclass: yellowcar  Accuracy: 0.9763
+Trueclass: caryellow 224.jpg  Predictclass: yellowcar  Accuracy: 0.9969
+Trueclass: carwhite 659.jpg  Predictclass: whitecar  Accuracy: 0.9983
+Trueclass: caryellow 539.jpg  Predictclass: yellowcar  Accuracy: 0.9833
+Trueclass: carwhite 391.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: caryellow 4.jpg  Predictclass: yellowcar  Accuracy: 0.9937
+Trueclass: caryellow 294.jpg  Predictclass: yellowcar  Accuracy: 0.9890
+Trueclass: caryellow 61.jpg  Predictclass: yellowcar  Accuracy: 0.9969
+Trueclass: carwhite 608.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: caryellow 119.jpg  Predictclass: yellowcar  Accuracy: 0.9982
+Trueclass: carwhite 509.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carwhite 222.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carblue 34.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 63.jpg  Predictclass: yellowcar  Accuracy: 0.9832
+Trueclass: carblue 214.jpg  Predictclass: bluecar  Accuracy: 0.9398
+Trueclass: carwhite 501.jpg  Predictclass: whitecar  Accuracy: 0.9988
+Trueclass: caryellow 74.jpg  Predictclass: yellowcar  Accuracy: 0.9965
+Trueclass: carwhite 518.jpg  Predictclass: whitecar  Accuracy: 0.9985
+Trueclass: caryellow 143.jpg  Predictclass: yellowcar  Accuracy: 0.9963
+Trueclass: carblue 248.jpg  Predictclass: bluecar  Accuracy: 0.9260
+Trueclass: caryellow 267.jpg  Predictclass: yellowcar  Accuracy: 0.9852
+Trueclass: carblue 268.jpg  Predictclass: bluecar  Accuracy: 0.9978
+Trueclass: carblue 56.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 161.jpg  Predictclass: bluecar  Accuracy: 0.9097
+Trueclass: carblue 223.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 511.jpg  Predictclass: whitecar  Accuracy: 0.9988
+Trueclass: carblue 191.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 54.jpg  Predictclass: greencar  Accuracy: 0.9618
+Trueclass: caryellow 520.jpg  Predictclass: yellowcar  Accuracy: 0.9914
+Trueclass: carblue 293.jpg  Predictclass: bluecar  Accuracy: 0.9990
+Trueclass: carwhite 9.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 565.jpg  Predictclass: yellowcar  Accuracy: 0.9589
+Trueclass: carwhite 30.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: cargreen 41.jpg  Predictclass: greencar  Accuracy: 0.9963
+Trueclass: cargreen 97.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: caryellow 331.jpg  Predictclass: yellowcar  Accuracy: 0.9192
+Trueclass: caryellow 124.jpg  Predictclass: yellowcar  Accuracy: 0.9946
+Trueclass: carwhite 238.jpg  Predictclass: whitecar  Accuracy: 0.9981
+Trueclass: carwhite 42.jpg  Predictclass: whitecar  Accuracy: 0.9950
+Trueclass: carwhite 692.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carwhite 201.jpg  Predictclass: whitecar  Accuracy: 0.9745
+Trueclass: carblue 59.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 99.jpg  Predictclass: greencar  Accuracy: 0.9991
+Trueclass: carwhite 61.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 304.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 135.jpg  Predictclass: yellowcar  Accuracy: 0.9976
+Trueclass: caryellow 220.jpg  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: caryellow 287.jpg  Predictclass: yellowcar  Accuracy: 0.9583
+Trueclass: carblue 258.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 706.jpg  Predictclass: whitecar  Accuracy: 0.9968
+Trueclass: carblue 82.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 151.jpg  Predictclass: bluecar  Accuracy: 0.9110
+Trueclass: carwhite 177.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 486.jpg  Predictclass: whitecar  Accuracy: 0.9985
+Trueclass: caryellow 185.jpg  Predictclass: yellowcar  Accuracy: 0.9892
+Trueclass: cargreen 94.jpg  Predictclass: greencar  Accuracy: 0.6155
+Trueclass: carwhite 376.jpg  Predictclass: whitecar  Accuracy: 0.9970
+Trueclass: carwhite 450.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: caryellow 96.jpg  Predictclass: yellowcar  Accuracy: 0.9872
+Trueclass: carblue 295.jpg  Predictclass: bluecar  Accuracy: 0.8334
+Trueclass: caryellow 477.jpg  Predictclass: yellowcar  Accuracy: 0.9996
+Trueclass: caryellow 46.jpg  Predictclass: yellowcar  Accuracy: 0.9991
+Trueclass: carblue 296.jpg  Predictclass: bluecar  Accuracy: 0.8975
+Trueclass: carwhite 223.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: caryellow 265.jpg  Predictclass: yellowcar  Accuracy: 0.9954
+Trueclass: carwhite 584.jpg  Predictclass: whitecar  Accuracy: 0.9985
+Trueclass: caryellow 50.jpg  Predictclass: yellowcar  Accuracy: 0.9967
+Trueclass: carblue 309.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 34.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 36.jpg  Predictclass: whitecar  Accuracy: 0.9989
+Trueclass: caryellow 475.jpg  Predictclass: yellowcar  Accuracy: 0.9919
+Trueclass: carwhite 130.jpg  Predictclass: whitecar  Accuracy: 0.9965
+Trueclass: carwhite 679.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: cargreen 69.jpg  Predictclass: greencar  Accuracy: 0.9989
+Trueclass: caryellow 155.jpg  Predictclass: yellowcar  Accuracy: 0.9361
+Trueclass: carblue 55.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 335.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: carblue 24.jpg  Predictclass: bluecar  Accuracy: 0.7631
+Trueclass: cargreen 14.jpg  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: carwhite 323.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carblue 66.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 77.jpg  Predictclass: yellowcar  Accuracy: 0.9973
+Trueclass: carwhite 461.jpg  Predictclass: whitecar  Accuracy: 0.9973
+Trueclass: caryellow 166.jpg  Predictclass: yellowcar  Accuracy: 0.9959
+Trueclass: carwhite 471.jpg  Predictclass: whitecar  Accuracy: 0.9986
+Trueclass: cargreen 76.jpg  Predictclass: greencar  Accuracy: 0.9827
+Trueclass: carwhite 461.jpg  Predictclass: whitecar  Accuracy: 0.9973
+Trueclass: carwhite 133.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 196.jpg  Predictclass: yellowcar  Accuracy: 0.9975
+Trueclass: carwhite 117.jpg  Predictclass: whitecar  Accuracy: 0.9988
+Trueclass: carwhite 622.jpg  Predictclass: whitecar  Accuracy: 0.9986
+Trueclass: carwhite 476.jpg  Predictclass: whitecar  Accuracy: 0.9976
+Trueclass: caryellow 297.jpg  Predictclass: yellowcar  Accuracy: 0.9648
+Trueclass: caryellow 475.jpg  Predictclass: yellowcar  Accuracy: 0.9919
+Trueclass: carwhite 499.jpg  Predictclass: whitecar  Accuracy: 0.9970
+Trueclass: carwhite 275.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 140.jpg  Predictclass: yellowcar  Accuracy: 0.9554
+Trueclass: carwhite 291.jpg  Predictclass: whitecar  Accuracy: 0.9982
+Trueclass: carblue 195.jpg  Predictclass: bluecar  Accuracy: 0.9931
+Trueclass: carwhite 466.jpg  Predictclass: whitecar  Accuracy: 0.9988
+Trueclass: carwhite 204.jpg  Predictclass: whitecar  Accuracy: 0.9987
+Trueclass: caryellow 448.jpg  Predictclass: yellowcar  Accuracy: 0.9991
+Trueclass: caryellow 402.jpg  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: carblue 250.jpg  Predictclass: bluecar  Accuracy: 0.9750
+Trueclass: caryellow 62.jpg  Predictclass: yellowcar  Accuracy: 0.9975
+Trueclass: carwhite 278.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 379.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: caryellow 80.jpg  Predictclass: yellowcar  Accuracy: 0.9987
+Trueclass: carwhite 602.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 495.jpg  Predictclass: yellowcar  Accuracy: 0.9991
+Trueclass: cargreen 111.jpg  Predictclass: greencar  Accuracy: 0.9993
+Trueclass: carwhite 389.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: cargreen 1.jpg  Predictclass: greencar  Accuracy: 0.9989
+Trueclass: carblue 283.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 691.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 320.jpg  Predictclass: whitecar  Accuracy: 0.9960
+Trueclass: carwhite 93.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 324.jpg  Predictclass: yellowcar  Accuracy: 0.8010
+Trueclass: carwhite 57.jpg  Predictclass: whitecar  Accuracy: 0.9988
+Trueclass: carblue 154.jpg  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: carblue 128.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 127.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 522.jpg  Predictclass: whitecar  Accuracy: 0.9983
+Trueclass: carwhite 216.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: carwhite 520.jpg  Predictclass: whitecar  Accuracy: 0.9948
+Trueclass: carwhite 208.jpg  Predictclass: whitecar  Accuracy: 0.9989
+Trueclass: caryellow 460.jpg  Predictclass: yellowcar  Accuracy: 0.9611
+Trueclass: carwhite 669.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carwhite 92.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carblue 30.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 605.jpg  Predictclass: whitecar  Accuracy: 0.9983
+Trueclass: carwhite 451.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 566.jpg  Predictclass: yellowcar  Accuracy: 0.9850
+Trueclass: cargreen 129.jpg  Predictclass: greencar  Accuracy: 0.7930
+Trueclass: caryellow 233.jpg  Predictclass: yellowcar  Accuracy: 0.9924
+Trueclass: carwhite 231.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: caryellow 306.jpg  Predictclass: yellowcar  Accuracy: 0.9884
+Trueclass: caryellow 146.jpg  Predictclass: yellowcar  Accuracy: 0.9964
+Trueclass: carblue 189.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 191.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 211.jpg  Predictclass: whitecar  Accuracy: 0.9973
+Trueclass: cargreen 3.jpg  Predictclass: greencar  Accuracy: 0.9916
+Trueclass: carblue 67.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 476.jpg  Predictclass: yellowcar  Accuracy: 0.9771
+Trueclass: carwhite 274.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: carwhite 238.jpg  Predictclass: whitecar  Accuracy: 0.9981
+Trueclass: caryellow 114.jpg  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: carwhite 616.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 103.jpg  Predictclass: yellowcar  Accuracy: 0.9993
+Trueclass: carwhite 434.jpg  Predictclass: whitecar  Accuracy: 0.9946
+Trueclass: caryellow 254.jpg  Predictclass: yellowcar  Accuracy: 0.9981
+Trueclass: carblue 105.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 638.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: carblue 227.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 4.jpg  Predictclass: whitecar  Accuracy: 0.9960
+Trueclass: caryellow 296.jpg  Predictclass: yellowcar  Accuracy: 0.9873
+Trueclass: carwhite 636.jpg  Predictclass: whitecar  Accuracy: 0.9967
+Trueclass: carwhite 604.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 577.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: carwhite 13.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carblue 142.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 242.jpg  Predictclass: whitecar  Accuracy: 0.9987
+Trueclass: caryellow 416.jpg  Predictclass: yellowcar  Accuracy: 0.7790
+Trueclass: carblue 335.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 44.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carblue 187.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 367.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: carblue 340.jpg  Predictclass: bluecar  Accuracy: 0.9997
+Trueclass: cargreen 58.jpg  Predictclass: greencar  Accuracy: 0.9657
+Trueclass: carblue 42.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 576.jpg  Predictclass: yellowcar  Accuracy: 0.9958
+Trueclass: carwhite 440.jpg  Predictclass: whitecar  Accuracy: 0.9982
+Trueclass: carwhite 347.jpg  Predictclass: whitecar  Accuracy: 0.9987
+Trueclass: caryellow 191.jpg  Predictclass: yellowcar  Accuracy: 0.9939
+Trueclass: caryellow 366.jpg  Predictclass: yellowcar  Accuracy: 0.9729
+Trueclass: caryellow 527.jpg  Predictclass: yellowcar  Accuracy: 0.9992
+Trueclass: caryellow 278.jpg  Predictclass: yellowcar  Accuracy: 0.9947
+Trueclass: carwhite 153.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: cargreen 72.jpg  Predictclass: greencar  Accuracy: 0.9990
+Trueclass: carwhite 101.jpg  Predictclass: whitecar  Accuracy: 0.9974
+Trueclass: cargreen 104.jpg  Predictclass: greencar  Accuracy: 0.9964
+Trueclass: caryellow 224.jpg  Predictclass: yellowcar  Accuracy: 0.9969
+Trueclass: carblue 69.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 435.jpg  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: caryellow 404.jpg  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: carblue 324.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 143.jpg  Predictclass: yellowcar  Accuracy: 0.9963
+Trueclass: caryellow 243.jpg  Predictclass: yellowcar  Accuracy: 0.9986
+Trueclass: caryellow 497.jpg  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: carblue 93.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 55.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 564.jpg  Predictclass: yellowcar  Accuracy: 0.9543
+Trueclass: caryellow 376.jpg  Predictclass: yellowcar  Accuracy: 0.9993
+Trueclass: carwhite 214.jpg  Predictclass: whitecar  Accuracy: 0.9982
+Trueclass: carwhite 254.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 326.jpg  Predictclass: yellowcar  Accuracy: 0.9997
+Trueclass: caryellow 534.jpg  Predictclass: yellowcar  Accuracy: 0.9994
+Trueclass: carwhite 302.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carwhite 450.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: caryellow 128.jpg  Predictclass: yellowcar  Accuracy: 0.9838
+Trueclass: carblue 207.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 249.jpg  Predictclass: yellowcar  Accuracy: 0.9953
+Trueclass: carblue 292.jpg  Predictclass: bluecar  Accuracy: 0.9999
+Trueclass: carwhite 146.jpg  Predictclass: whitecar  Accuracy: 0.9890
+Trueclass: caryellow 548.jpg  Predictclass: yellowcar  Accuracy: 0.9297
+Trueclass: caryellow 201.jpg  Predictclass: yellowcar  Accuracy: 0.9915
+Trueclass: carwhite 184.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carwhite 161.jpg  Predictclass: whitecar  Accuracy: 0.9914
+Trueclass: caryellow 10.jpg  Predictclass: yellowcar  Accuracy: 0.9844
+Trueclass: carwhite 6.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: carblue 93.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 74.jpg  Predictclass: yellowcar  Accuracy: 0.9965
+Trueclass: carblue 280.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 23.jpg  Predictclass: yellowcar  Accuracy: 0.9990
+Trueclass: carwhite 412.jpg  Predictclass: whitecar  Accuracy: 0.9976
+Trueclass: cargreen 125.jpg  Predictclass: greencar  Accuracy: 0.8202
+Trueclass: carwhite 546.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carwhite 366.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: caryellow 460.jpg  Predictclass: yellowcar  Accuracy: 0.9611
+Trueclass: cargreen 126.jpg  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: caryellow 414.jpg  Predictclass: yellowcar  Accuracy: 0.9555
+Trueclass: caryellow 494.jpg  Predictclass: yellowcar  Accuracy: 0.9985
+Trueclass: caryellow 455.jpg  Predictclass: yellowcar  Accuracy: 0.8850
+Trueclass: caryellow 275.jpg  Predictclass: yellowcar  Accuracy: 0.8734
+Trueclass: caryellow 175.jpg  Predictclass: yellowcar  Accuracy: 0.9834
+Trueclass: caryellow 338.jpg  Predictclass: yellowcar  Accuracy: 0.8903
+Trueclass: caryellow 186.jpg  Predictclass: yellowcar  Accuracy: 0.8436
+Trueclass: caryellow 409.jpg  Predictclass: yellowcar  Accuracy: 0.9904
+Trueclass: carwhite 323.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 167.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: cargreen 47.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: caryellow 12.jpg  Predictclass: yellowcar  Accuracy: 0.9963
+Trueclass: caryellow 180.jpg  Predictclass: yellowcar  Accuracy: 0.9805
+Trueclass: carblue 164.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 172.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 37.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: caryellow 485.jpg  Predictclass: yellowcar  Accuracy: 0.9928
+Trueclass: caryellow 118.jpg  Predictclass: yellowcar  Accuracy: 0.9986
+Trueclass: carblue 109.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 148.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 357.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 143.jpg  Predictclass: bluecar  Accuracy: 0.9322
+Trueclass: cargreen 24.jpg  Predictclass: greencar  Accuracy: 0.9964
+Trueclass: caryellow 291.jpg  Predictclass: yellowcar  Accuracy: 0.9809
+Trueclass: carwhite 701.jpg  Predictclass: whitecar  Accuracy: 0.9977
+Trueclass: caryellow 502.jpg  Predictclass: yellowcar  Accuracy: 0.9305
+Trueclass: carblue 347.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 427.jpg  Predictclass: yellowcar  Accuracy: 0.8581
+Trueclass: caryellow 232.jpg  Predictclass: yellowcar  Accuracy: 0.9885
+Trueclass: carwhite 360.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carwhite 161.jpg  Predictclass: whitecar  Accuracy: 0.9914
+Trueclass: carwhite 153.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 51.jpg  Predictclass: yellowcar  Accuracy: 0.8335
+Trueclass: caryellow 183.jpg  Predictclass: yellowcar  Accuracy: 0.9804
+Trueclass: carwhite 681.jpg  Predictclass: whitecar  Accuracy: 0.9967
+Trueclass: caryellow 465.jpg  Predictclass: yellowcar  Accuracy: 0.8451
+Trueclass: cargreen 114.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 693.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: caryellow 306.jpg  Predictclass: yellowcar  Accuracy: 0.9884
+Trueclass: carwhite 708.jpg  Predictclass: whitecar  Accuracy: 0.9983
+Trueclass: caryellow 42.jpg  Predictclass: yellowcar  Accuracy: 0.9914
+Trueclass: carwhite 109.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 331.jpg  Predictclass: yellowcar  Accuracy: 0.9192
+Trueclass: carblue 293.jpg  Predictclass: bluecar  Accuracy: 0.9990
+Trueclass: carblue 23.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 262.jpg  Predictclass: yellowcar  Accuracy: 0.9404
+Trueclass: carblue 209.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 157.jpg  Predictclass: yellowcar  Accuracy: 0.9974
+Trueclass: carblue 10.jpg  Predictclass: bluecar  Accuracy: 0.9994
+Trueclass: carblue 322.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 455.jpg  Predictclass: yellowcar  Accuracy: 0.8850
+Trueclass: carblue 144.jpg  Predictclass: bluecar  Accuracy: 0.7922
+Trueclass: carwhite 409.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 37.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 698.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 533.jpg  Predictclass: whitecar  Accuracy: 0.9977
+Trueclass: carwhite 588.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: caryellow 393.jpg  Predictclass: yellowcar  Accuracy: 0.9961
+Trueclass: carwhite 512.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: caryellow 262.jpg  Predictclass: yellowcar  Accuracy: 0.9404
+Trueclass: carwhite 325.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carblue 77.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 166.jpg  Predictclass: bluecar  Accuracy: 0.7987
+Trueclass: carwhite 23.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carwhite 210.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carwhite 12.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: carblue 161.jpg  Predictclass: bluecar  Accuracy: 0.9097
+Trueclass: carblue 47.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 71.jpg  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: carwhite 476.jpg  Predictclass: whitecar  Accuracy: 0.9976
+Trueclass: carwhite 16.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 365.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 695.jpg  Predictclass: whitecar  Accuracy: 0.9986
+Trueclass: caryellow 469.jpg  Predictclass: yellowcar  Accuracy: 0.7781
+Trueclass: carwhite 649.jpg  Predictclass: whitecar  Accuracy: 0.9971
+Trueclass: caryellow 74.jpg  Predictclass: yellowcar  Accuracy: 0.9965
+Trueclass: caryellow 225.jpg  Predictclass: yellowcar  Accuracy: 0.9976
+Trueclass: carblue 190.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 564.jpg  Predictclass: yellowcar  Accuracy: 0.9543
+Trueclass: carwhite 130.jpg  Predictclass: whitecar  Accuracy: 0.9965
+Trueclass: carwhite 383.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: cargreen 132.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 658.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 451.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 332.jpg  Predictclass: yellowcar  Accuracy: 0.8921
+Trueclass: caryellow 212.jpg  Predictclass: yellowcar  Accuracy: 0.9915
+Trueclass: carwhite 365.jpg  Predictclass: whitecar  Accuracy: 0.9864
+Trueclass: carblue 9.jpg  Predictclass: bluecar  Accuracy: 0.6713
+Trueclass: carblue 10.jpg  Predictclass: bluecar  Accuracy: 0.9994
+Trueclass: carblue 183.jpg  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: caryellow 570.jpg  Predictclass: yellowcar  Accuracy: 0.9719
+Trueclass: carwhite 311.jpg  Predictclass: whitecar  Accuracy: 0.9972
+Trueclass: cargreen 98.jpg  Predictclass: greencar  Accuracy: 0.9987
+Trueclass: carwhite 56.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: carblue 304.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 299.jpg  Predictclass: whitecar  Accuracy: 0.9869
+Trueclass: carwhite 697.jpg  Predictclass: whitecar  Accuracy: 0.9979
+Trueclass: cargreen 103.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 119.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: cargreen 23.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carblue 296.jpg  Predictclass: bluecar  Accuracy: 0.8975
+Trueclass: carwhite 543.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 296.jpg  Predictclass: bluecar  Accuracy: 0.8975
+Trueclass: carwhite 309.jpg  Predictclass: whitecar  Accuracy: 0.9984
+Trueclass: carwhite 609.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 644.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 162.jpg  Predictclass: whitecar  Accuracy: 0.9987
+Trueclass: cargreen 105.jpg  Predictclass: yellowcar  Accuracy: 0.5753
+Trueclass: carwhite 57.jpg  Predictclass: whitecar  Accuracy: 0.9988
+Trueclass: carwhite 131.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carblue 271.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 50.jpg  Predictclass: greencar  Accuracy: 0.9820
+Trueclass: carblue 126.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 532.jpg  Predictclass: yellowcar  Accuracy: 0.9928
+Trueclass: carwhite 41.jpg  Predictclass: whitecar  Accuracy: 0.9895
+Trueclass: caryellow 147.jpg  Predictclass: yellowcar  Accuracy: 0.9974
+Trueclass: carwhite 694.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: carblue 110.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 477.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carwhite 138.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: caryellow 325.jpg  Predictclass: yellowcar  Accuracy: 0.7984
+Trueclass: carblue 154.jpg  Predictclass: bluecar  Accuracy: 0.9996
+Trueclass: caryellow 80.jpg  Predictclass: yellowcar  Accuracy: 0.9987
+Trueclass: carwhite 384.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carwhite 487.jpg  Predictclass: whitecar  Accuracy: 0.9970
+Trueclass: cargreen 102.jpg  Predictclass: greencar  Accuracy: 0.9998
+Trueclass: carwhite 455.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 367.jpg  Predictclass: yellowcar  Accuracy: 0.9976
+Trueclass: carblue 277.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 126.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: caryellow 10.jpg  Predictclass: yellowcar  Accuracy: 0.9844
+Trueclass: caryellow 28.jpg  Predictclass: yellowcar  Accuracy: 0.9909
+Trueclass: carblue 198.jpg  Predictclass: bluecar  Accuracy: 0.7744
+Trueclass: carwhite 153.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 312.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: caryellow 451.jpg  Predictclass: yellowcar  Accuracy: 0.9961
+Trueclass: carblue 230.jpg  Predictclass: bluecar  Accuracy: 0.9406
+Trueclass: carblue 276.jpg  Predictclass: greencar  Accuracy: 0.3886
+Trueclass: caryellow 555.jpg  Predictclass: yellowcar  Accuracy: 0.9895
+Trueclass: caryellow 527.jpg  Predictclass: yellowcar  Accuracy: 0.9992
+Trueclass: carblue 70.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 358.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 341.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 413.jpg  Predictclass: yellowcar  Accuracy: 0.9861
+Trueclass: carblue 324.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 709.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: carwhite 567.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: cargreen 105.jpg  Predictclass: yellowcar  Accuracy: 0.5753
+Trueclass: cargreen 15.jpg  Predictclass: greencar  Accuracy: 0.9999
+Trueclass: carwhite 390.jpg  Predictclass: whitecar  Accuracy: 0.9979
+Trueclass: caryellow 367.jpg  Predictclass: yellowcar  Accuracy: 0.9976
+Trueclass: caryellow 358.jpg  Predictclass: yellowcar  Accuracy: 0.9985
+Trueclass: carblue 46.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 198.jpg  Predictclass: yellowcar  Accuracy: 0.9056
+Trueclass: caryellow 433.jpg  Predictclass: yellowcar  Accuracy: 0.9695
+Trueclass: carwhite 201.jpg  Predictclass: whitecar  Accuracy: 0.9745
+Trueclass: caryellow 232.jpg  Predictclass: yellowcar  Accuracy: 0.9885
+Trueclass: carwhite 369.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 263.jpg  Predictclass: whitecar  Accuracy: 0.9771
+Trueclass: carwhite 149.jpg  Predictclass: whitecar  Accuracy: 0.9885
+Trueclass: carwhite 112.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 232.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: carwhite 605.jpg  Predictclass: whitecar  Accuracy: 0.9983
+Trueclass: cargreen 24.jpg  Predictclass: greencar  Accuracy: 0.9964
+Trueclass: caryellow 420.jpg  Predictclass: yellowcar  Accuracy: 0.5670
+Trueclass: carblue 79.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 224.jpg  Predictclass: yellowcar  Accuracy: 0.9969
+Trueclass: caryellow 232.jpg  Predictclass: yellowcar  Accuracy: 0.9885
+Trueclass: carblue 85.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carblue 138.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 37.jpg  Predictclass: whitecar  Accuracy: 0.9989
+Trueclass: cargreen 26.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 486.jpg  Predictclass: whitecar  Accuracy: 0.9985
+Trueclass: carblue 4.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 463.jpg  Predictclass: yellowcar  Accuracy: 0.9996
+Trueclass: caryellow 71.jpg  Predictclass: yellowcar  Accuracy: 0.9995
+Trueclass: caryellow 563.jpg  Predictclass: yellowcar  Accuracy: 0.9671
+Trueclass: carblue 295.jpg  Predictclass: bluecar  Accuracy: 0.8334
+Trueclass: caryellow 414.jpg  Predictclass: yellowcar  Accuracy: 0.9555
+Trueclass: cargreen 72.jpg  Predictclass: greencar  Accuracy: 0.9990
+Trueclass: cargreen 132.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: caryellow 100.jpg  Predictclass: yellowcar  Accuracy: 0.9986
+Trueclass: caryellow 122.jpg  Predictclass: yellowcar  Accuracy: 0.9922
+Trueclass: caryellow 354.jpg  Predictclass: yellowcar  Accuracy: 0.9775
+Trueclass: carblue 243.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 220.jpg  Predictclass: whitecar  Accuracy: 0.9995
+Trueclass: carblue 59.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 661.jpg  Predictclass: whitecar  Accuracy: 0.9975
+Trueclass: carwhite 315.jpg  Predictclass: whitecar  Accuracy: 0.9998
+Trueclass: carblue 281.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 217.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 304.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 327.jpg  Predictclass: yellowcar  Accuracy: 0.8593
+Trueclass: cargreen 25.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 640.jpg  Predictclass: whitecar  Accuracy: 0.9992
+Trueclass: carwhite 290.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: caryellow 232.jpg  Predictclass: yellowcar  Accuracy: 0.9885
+Trueclass: caryellow 503.jpg  Predictclass: yellowcar  Accuracy: 0.9656
+Trueclass: carblue 272.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 104.jpg  Predictclass: greencar  Accuracy: 0.9964
+Trueclass: carblue 173.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 374.jpg  Predictclass: yellowcar  Accuracy: 0.9885
+Trueclass: carwhite 619.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: caryellow 266.jpg  Predictclass: yellowcar  Accuracy: 0.9923
+Trueclass: caryellow 215.jpg  Predictclass: yellowcar  Accuracy: 0.9978
+Trueclass: caryellow 294.jpg  Predictclass: yellowcar  Accuracy: 0.9890
+Trueclass: caryellow 433.jpg  Predictclass: yellowcar  Accuracy: 0.9695
+Trueclass: carwhite 138.jpg  Predictclass: whitecar  Accuracy: 0.9991
+Trueclass: carwhite 247.jpg  Predictclass: whitecar  Accuracy: 0.9983
+Trueclass: carwhite 109.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: carblue 211.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 138.jpg  Predictclass: yellowcar  Accuracy: 0.9969
+Trueclass: carwhite 266.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 313.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 295.jpg  Predictclass: whitecar  Accuracy: 0.9974
+Trueclass: carwhite 554.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: cargreen 47.jpg  Predictclass: greencar  Accuracy: 1.0000
+Trueclass: carwhite 198.jpg  Predictclass: whitecar  Accuracy: 0.9994
+Trueclass: carblue 17.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 300.jpg  Predictclass: yellowcar  Accuracy: 0.9471
+Trueclass: carblue 125.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 472.jpg  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: carblue 297.jpg  Predictclass: bluecar  Accuracy: 0.8173
+Trueclass: carwhite 374.jpg  Predictclass: whitecar  Accuracy: 0.9997
+Trueclass: caryellow 471.jpg  Predictclass: yellowcar  Accuracy: 0.9998
+Trueclass: caryellow 269.jpg  Predictclass: yellowcar  Accuracy: 0.8418
+Trueclass: carwhite 415.jpg  Predictclass: whitecar  Accuracy: 0.9990
+Trueclass: carwhite 313.jpg  Predictclass: whitecar  Accuracy: 0.9989
+Trueclass: carblue 182.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 217.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carblue 361.jpg  Predictclass: bluecar  Accuracy: 0.7022
+Trueclass: caryellow 173.jpg  Predictclass: yellowcar  Accuracy: 0.9985
+Trueclass: carwhite 688.jpg  Predictclass: whitecar  Accuracy: 0.9993
+Trueclass: carblue 26.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: cargreen 77.jpg  Predictclass: yellowcar  Accuracy: 0.5153
+Trueclass: carblue 86.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 521.jpg  Predictclass: yellowcar  Accuracy: 0.9965
+Trueclass: caryellow 331.jpg  Predictclass: yellowcar  Accuracy: 0.9192
+Trueclass: carblue 51.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 45.jpg  Predictclass: yellowcar  Accuracy: 0.9932
+Trueclass: carwhite 10.jpg  Predictclass: whitecar  Accuracy: 0.9999
+Trueclass: carwhite 612.jpg  Predictclass: whitecar  Accuracy: 0.9990
+Trueclass: caryellow 157.jpg  Predictclass: yellowcar  Accuracy: 0.9974
+Trueclass: carblue 353.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: carwhite 405.jpg  Predictclass: whitecar  Accuracy: 0.9996
+Trueclass: carblue 337.jpg  Predictclass: bluecar  Accuracy: 1.0000
+Trueclass: caryellow 95.jpg  Predictclass: yellowcar  Accuracy: 0.9358
+Trueclass: caryellow 122.jpg  Predictclass: yellowcar  Accuracy: 0.9922
